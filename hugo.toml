@@ -1,3 +1,44 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "https://ualhmis2026-XXXX.github.io/blog/"
+languageCode = "es"
+title = "Blog del Equipo"
+theme = "DoIt"
+
+[params]
+  version = "0.2.X"
+  description = "Blog colaborativo HMIS - UAL 2026"
+  keywords = ["blog", "universidad", "informática"]
+  defaultTheme = "auto"        # light, dark, auto
+  gitRepo = "https://github.com/ualhmis2026-XXXX/blog"
+
+  [params.author]
+    name = "Equipo HMIS"
+    email = ""
+    link = ""
+
+  [params.home.profile]
+    enable = true
+    gravatarEmail = ""
+    avatarURL = "https://github.com/pmg943.png"
+    title = "Blog del Equipo"
+    subtitle = "Blog colaborativo HMIS - UAL 2026"
+    typeit = true
+    social = true
+
+  [params.social]
+    GitHub = "pmg943"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "equipo"
+    name = "Equipo"
+    url = "/pages/"
+    weight = 2
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
