@@ -1,0 +1,51 @@
+baseURL = "https://ualhmis2026-XXXX.github.io/blog/"
+languageCode = "es"
+title = "EQ20"
+theme = "DoIt"
+
+[params]
+  version = "0.2.X"
+  description = "Blog colaborativo HMIS - UAL 2026"
+  keywords = ["blog", "universidad", "informática"]
+  defaultTheme = "auto"        # light, dark, auto
+  gitRepo = "https://github.com/ualhmis2026-XXXX/blog"
+
+  [params.author]
+    name = "EQ20"
+    email = ""
+    link = ""
+
+[params.home]
+  rss = 10
+  [params.home.profile]
+    enable = true
+    avatarURL = "https://github.com/ualhmis.png"
+    title = "EQ20"
+    subtitle = "Blog colaborativo de Ingeniería Informática · UAL 2026"
+    typeit = true
+    social = true
+  disclaimer = "Somos un equipo de estudiantes de Ingeniería Informática de la Universidad de Almería, desarrollando este blog como parte de la asignatura de Herramientas y Métodos en Ingeniería del Software. Exploramos herramientas modernas como Hugo, Git, GitHub Actions y Azure para el desarrollo y despliegue de aplicaciones web estáticas."
+
+  [params.home.posts]
+    enable = true
+    paginate = 6
+
+[params.social]
+  GitHub = "ualhmis2026-eq20"
+  Email = ""
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "POSTS"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "equipo"
+    name = "EQUIPO"
+    url = "/pages/equipo"
+    weight = 2
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
