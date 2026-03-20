@@ -3,5 +3,12 @@
         <title>Categories - Categoría - EQ20</title>
         <link>http://localhost:1313/blog/categories/</link>
         <description>Categories - Categoría - EQ20</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><atom:link href="http://localhost:1313/blog/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/blog/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Proyecto</title>
+    <link>http://localhost:1313/blog/categories/proyecto/</link>
+    <pubDate>Thu, 19 Mar 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>EQ20</name>
+    </author><guid>http://localhost:1313/blog/categories/proyecto/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>

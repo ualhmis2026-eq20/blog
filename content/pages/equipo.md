@@ -1,11 +1,18 @@
 ---
-title: "Equipo"
+title: "Colaboradores del equipo"
 date: 2026-03-20
 type: "pages"
-layout: "equipo"
+menu:
+  main:
+    name: "Equipo"
+    identifier: "equipo"
+    weight: 2
+_build:
+  list: never
+  render: always
 ---
 
-## Nuestro Equipo
+## Equipo 20
 
 Somos estudiantes de Ingeniería Informática en la Universidad de Almería.
 
@@ -16,9 +23,9 @@ Somos estudiantes de Ingeniería Informática en la Universidad de Almería.
       <img src="https://github.com/ualpmg943.png" width="100" style="border-radius:50%; margin-bottom:1rem;">
     </div>
     <h3>Pablo Martínez</h3>
-    <p>🎧 DJ · 💻 HPC · 🎓 UAL</p>
+    <p>🎧 DJ · 💻 HPC</p>
     <a href="/blog/pages/pablo/">🧑‍💻 Página personal</a><br><br>
-    <a href="https://github.com/ualpmg943" style="display:inline-flex; align-items:center; gap:0.3rem;">
+    <div style="display:inline-flex; align-items:center; gap:0.3rem;">
       <svg height="18" width="18" viewBox="0 0 16 16" fill="currentColor">
         <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38
         0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13
@@ -29,8 +36,8 @@ Somos estudiantes de Ingeniería Informática en la Universidad de Almería.
         .51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48
         0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
       </svg>
-      @ualpmg943
-    </a>
+      <a href="https://github.com/ualpmg943">@ualpmg943</a>
+    </div>
   </div>
 
   <div style="text-align:center; padding:1.5rem; border-radius:12px; border:1px solid #eee; width:220px;">
@@ -40,7 +47,7 @@ Somos estudiantes de Ingeniería Informática en la Universidad de Almería.
     <h3>Arturo Rodríguez</h3>
     <p>🎓 UAL · 💻 Ingeniería Informática</p>
     <a href="/blog/pages/arturo/">🧑‍💻 Página personal</a><br><br>
-    <a href="https://github.com/ualarp724" style="display:inline-flex; align-items:center; gap:0.3rem;">
+    <div style="display:inline-flex; align-items:center; gap:0.3rem;">
       <svg height="18" width="18" viewBox="0 0 16 16" fill="currentColor">
         <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38
         0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13
@@ -51,8 +58,8 @@ Somos estudiantes de Ingeniería Informática en la Universidad de Almería.
         .51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48
         0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
       </svg>
-      @ualarp724
-    </a>
+      <a href="https://github.com/ualarp724">@ualarp724</a>
+    </div>
   </div>
 
 </div>

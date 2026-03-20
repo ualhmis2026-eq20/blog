@@ -24,7 +24,7 @@ theme = "DoIt"
     subtitle = "Blog colaborativo de Ingeniería Informática · UAL 2026"
     typeit = true
     social = true
-    disclaimer = ""
+  disclaimer = "Somos un equipo de estudiantes de Ingeniería Informática de la Universidad de Almería, desarrollando este blog como parte de la asignatura de Herramientas y Métodos en Ingeniería del Software. Exploramos herramientas modernas como Hugo, Git, GitHub Actions y Azure para el desarrollo y despliegue de aplicaciones web estáticas."
 
   [params.home.posts]
     enable = true
