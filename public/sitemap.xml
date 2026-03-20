@@ -2,7 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/blog/</loc><lastmod>2026-03-19T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/blog/</loc><lastmod>2026-03-20T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/blog/pages/equipo/</loc><lastmod>2026-03-20T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/blog/pages/</loc><lastmod>2026-03-20T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://localhost:1313/blog/tags/git/</loc><lastmod>2026-03-19T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://localhost:1313/blog/tags/hugo/</loc><lastmod>2026-03-19T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://localhost:1313/blog/posts/2026-03-19-introduccion-proyecto/</loc><lastmod>2026-03-19T00:00:00&#43;00:00</lastmod></url><url>

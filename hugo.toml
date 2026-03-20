@@ -1,6 +1,6 @@
 baseURL = "https://ualhmis2026-XXXX.github.io/blog/"
 languageCode = "es"
-title = "Blog del Equipo"
+title = "EQ20"
 theme = "DoIt"
 
 [params]
@@ -11,32 +11,39 @@ theme = "DoIt"
   gitRepo = "https://github.com/ualhmis2026-XXXX/blog"
 
   [params.author]
-    name = "Equipo HMIS"
+    name = "EQ20"
     email = ""
     link = ""
 
+[params.home]
+  rss = 10
   [params.home.profile]
     enable = true
-    gravatarEmail = ""
-    avatarURL = "https://github.com/pmg943.png"
-    title = "Blog del Equipo"
-    subtitle = "Blog colaborativo HMIS - UAL 2026"
+    avatarURL = "https://github.com/ualhmis.png"
+    title = "EQ20"
+    subtitle = "Blog colaborativo de Ingeniería Informática · UAL 2026"
     typeit = true
     social = true
+    disclaimer = ""
 
-  [params.social]
-    GitHub = "pmg943"
+  [params.home.posts]
+    enable = true
+    paginate = 6
+
+[params.social]
+  GitHub = "ualhmis2026-eq20"
+  Email = ""
 
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "POSTS"
     url = "/posts/"
     weight = 1
   [[menu.main]]
     identifier = "equipo"
-    name = "Equipo"
-    url = "/pages/"
+    name = "EQUIPO"
+    url = "/pages/equipo"
     weight = 2
 
 [markup]

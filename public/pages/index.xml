@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Pages -  - EQ20</title>
+        <link>http://localhost:1313/blog/pages/</link>
+        <description>Pages -  - EQ20</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/blog/pages/" rel="self" type="application/rss+xml" /><item>
+    <title>Equipo</title>
+    <link>http://localhost:1313/blog/pages/equipo/</link>
+    <pubDate>Fri, 20 Mar 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>EQ20</name>
+    </author><guid>http://localhost:1313/blog/pages/equipo/</guid>
+    <description><![CDATA[<h2 id="nuestro-equipo" class="headerLink">
+    <a href="#nuestro-equipo" class="header-mark"></a>Nuestro Equipo</h2><p>Somos estudiantes de Ingeniería Informática en la Universidad de Almería.</p>
+<div style="display:flex; gap:2rem; justify-content:center; flex-wrap:wrap; margin-top:2rem;">
+  <div style="text-align:center; padding:1.5rem; border-radius:12px; border:1px solid #eee; width:220px;">
+    <img src="https://github.com/pmg943.png" width="100" style="border-radius:50%; margin-bottom:1rem;">
+    <h3>Pablo Martínez</h3>
+    <p>🎧 DJ · 💻 HPC · 🎓 UAL</p>
+    <a href="/blog/pages/pablo/">Ver perfil</a><br><br>
+    <a href="https://github.com/pmg943">@pmg943</a>
+  </div>
+  <div style="text-align:center; padding:1.5rem; border-radius:12px; border:1px solid #eee; width:220px;">
+    <img src="https://github.com/USUARIO-COMPAÑERO.png" width="100" style="border-radius:50%; margin-bottom:1rem;">
+    <h3>Nombre Compañero</h3>
+    <p>🎓 UAL · 💻 Ingeniería Informática</p>
+    <a href="/blog/pages/compañero/">Ver perfil</a><br><br>
+    <a href="https://github.com/USUARIO-COMPAÑERO">@USUARIO-COMPAÑERO</a>
+  </div>
+</div>]]></description>
+</item></channel>
+</rss>

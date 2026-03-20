@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Git - Etiqueta - Blog del Equipo</title>
+        <title>Git - Etiqueta - EQ20</title>
         <link>http://localhost:1313/blog/tags/git/</link>
-        <description>Git - Etiqueta - Blog del Equipo</description>
+        <description>Git - Etiqueta - EQ20</description>
         <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/git/" rel="self" type="application/rss+xml" /><item>
     <title>Introducción al Proyecto</title>
     <link>http://localhost:1313/blog/posts/2026-03-19-introduccion-proyecto/</link>
