@@ -45,6 +45,11 @@ theme = "DoIt"
     name = "EQUIPO"
     url = "/pages/equipo"
     weight = 2
+  [[menu.main]]
+    identifier = "contacto"
+    name = "CONTACTO"
+    url = "/pages/contacto"
+    weight = 3
 
 [markup]
   [markup.goldmark.renderer]
