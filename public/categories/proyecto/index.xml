@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Proyecto - Categoría - EQ20</title>
-        <link>http://localhost:1313/blog/categories/proyecto/</link>
+        <link>https://ualhmis2026-XXXX.github.io/blog/categories/proyecto/</link>
         <description>Proyecto - Categoría - EQ20</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/blog/categories/proyecto/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://ualhmis2026-XXXX.github.io/blog/categories/proyecto/" rel="self" type="application/rss+xml" /><item>
     <title>Introducción al Proyecto</title>
-    <link>http://localhost:1313/blog/posts/2026-03-19-introduccion-proyecto/</link>
+    <link>https://ualhmis2026-XXXX.github.io/blog/posts/2026-03-19-introduccion-proyecto/</link>
     <pubDate>Thu, 19 Mar 2026 00:00:00 &#43;0000</pubDate><author>
         <name>Pablo</name>
-    </author><guid>http://localhost:1313/blog/posts/2026-03-19-introduccion-proyecto/</guid>
+    </author><guid>https://ualhmis2026-XXXX.github.io/blog/posts/2026-03-19-introduccion-proyecto/</guid>
     <description><![CDATA[<h2 id="descripción-del-proyecto" class="headerLink">
     <a href="#descripci%c3%b3n-del-proyecto" class="header-mark"></a>Descripción del Proyecto</h2><p>En este proyecto desarrollamos un blog estático colaborativo&hellip;</p>]]></description>
 </item></channel>
