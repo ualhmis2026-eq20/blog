@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Categoría - EQ20</title>
-        <link>http://localhost:1313/blog/categories/</link>
+        <link>https://ualhmis2026-XXXX.github.io/blog/categories/</link>
         <description>Categories - Categoría - EQ20</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/blog/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://ualhmis2026-XXXX.github.io/blog/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Proyecto</title>
-    <link>http://localhost:1313/blog/categories/proyecto/</link>
+    <link>https://ualhmis2026-XXXX.github.io/blog/categories/proyecto/</link>
     <pubDate>Thu, 19 Mar 2026 00:00:00 &#43;0000</pubDate><author>
         <name>EQ20</name>
-    </author><guid>http://localhost:1313/blog/categories/proyecto/</guid>
+    </author><guid>https://ualhmis2026-XXXX.github.io/blog/categories/proyecto/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
