@@ -1,0 +1,15 @@
+# Hugo generated files
+public/
+resources/_gen/
+
+# Environment
+.DS_Store
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
